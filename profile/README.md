@@ -4,6 +4,9 @@ Curated UI components, motion systems, and immersive experiences for modern web 
 
 Built for developers who care about details.
 
+
+<img width="1324" height="932" alt="Screenshot 2026-06-21 at 10 48 15 PM" src="https://github.com/user-attachments/assets/1bbc18dd-38bf-4514-8d1a-4fce02e8aedb" />
+
 ---
 
 ## What is Zepa?
@@ -12,9 +15,14 @@ Zepa is an open-source collection of modern React and Next.js components focused
 
 From hero sections to immersive interfaces, every component is designed to be copied, customized, and shipped.
 
+one of the preview videos
+
+https://github.com/user-attachments/assets/82fadae4-b09b-4abe-9290-8fbd1509afe2
+
+
 ---
 
-<img width="1324" height="932" alt="Screenshot 2026-06-21 at 10 48 15 PM" src="https://github.com/user-attachments/assets/1bbc18dd-38bf-4514-8d1a-4fce02e8aedb" />
+
 
 
 ## Features
