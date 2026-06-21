@@ -14,6 +14,9 @@ From hero sections to immersive interfaces, every component is designed to be co
 
 ---
 
+<img width="1324" height="932" alt="Screenshot 2026-06-21 at 10 48 15 PM" src="https://github.com/user-attachments/assets/1bbc18dd-38bf-4514-8d1a-4fce02e8aedb" />
+
+
 ## Features
 
 * Curated UI components
@@ -23,6 +26,9 @@ From hero sections to immersive interfaces, every component is designed to be co
 * shadcn-compatible registry
 * React and Next.js support
 * Open source
+
+<img width="1262" height="514" alt="Screenshot 2026-06-21 at 10 48 54 PM" src="https://github.com/user-attachments/assets/d5a767fb-fc40-47de-a0de-efb3ecab906f" />
+
 
 ---
 
@@ -39,6 +45,8 @@ Zepa explores the small details that make products memorable:
 * Depth
 * Timing
 * Experience
+
+
 
 ---
 
